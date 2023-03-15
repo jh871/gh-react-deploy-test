@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-react-deploy-test/static/css/main.0c091b75.css",
+    "main.js": "/gh-react-deploy-test/static/js/main.c7bab884.js",
+    "index.html": "/gh-react-deploy-test/index.html",
+    "main.0c091b75.css.map": "/gh-react-deploy-test/static/css/main.0c091b75.css.map",
+    "main.c7bab884.js.map": "/gh-react-deploy-test/static/js/main.c7bab884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c091b75.css",
+    "static/js/main.c7bab884.js"
+  ]
+}
